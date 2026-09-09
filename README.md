@@ -1,19 +1,12 @@
-<table>
-  <tr>
-    <td width="35%" align="center">
-      <img src="College Image.png" width="220" alt="Nithieswar S" />
-    </td>
-    <td width="65%">
-      <h1>Hi 👋, I'm Nithieswar S</h1>
-      <h3>💻 Dedicated IT Student | Problem Solver | Full Stack Developer | Java Backend Developer</h3>
-      <p>
-        Dedicated IT student with strong problem-solving skills, passionate about Full Stack Development,
-        and focused on Backend Development using Java.
-      </p>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&vCenter=true&width=600&lines=Java+%7C+OOPs+%7C+DSA;Java+Backend+Developer;Full+Stack+Development;Spring+Boot+%7C+React.js+%7C+MySQL;Artificial+Intelligence+%26+Machine+Learning;Building+Real-World+Software+Solutions" alt="Typing SVG" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+# Hi 👋, I'm Nithieswar S
+
+### 💻 Dedicated IT Student | Problem Solver | Full Stack Developer | Java Backend Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+%7C+OOPs+%7C+DSA;Java+Backend+Developer;Full+Stack+Development;Spring+Boot+%7C+React.js+%7C+MySQL;Artificial+Intelligence+%26+Machine+Learning;Building+Real-World+Software+Solutions" alt="Typing SVG" />
+
+</div>
 
 ---
 
