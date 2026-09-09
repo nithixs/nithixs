@@ -87,6 +87,20 @@
 
 ---
 
+## 🔍 XAI Fake Review Predictor
+### Explainable AI Based Fake Review Detection System
+
+**Tech Stack:** Python • Machine Learning • XAI • MySQL • Railway
+
+- 🤖 Developed an AI-based system to identify **fake and genuine reviews**
+- 🧠 Applied **Explainable AI (XAI)** concepts to make model predictions easier to understand
+- 🗄️ Integrated **MySQL** for storing and managing application data
+- 🌐 Developed the project as a web-based prediction system
+- 🚀 Deployed the application and database services using **Railway**
+- 🔎 Focused on improving transparency and trust in automated review classification
+
+---
+
 ## 🌍 EcoRoute AI
 ### Sustainable Tourism & Route Recommendation Platform
 
