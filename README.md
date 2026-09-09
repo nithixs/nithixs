@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="College Image.png" width="180" alt="Nithieswar S">
+</p>
+
 # Hi, I'm Nithieswar 👋
 
 ### 💻 Dedicated IT Student | Java Developer | Full Stack Developer | AI Enthusiast
