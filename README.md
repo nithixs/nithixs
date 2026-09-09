@@ -97,9 +97,22 @@ REST APIs, databases, and integrating AI/ML models into practical applications.
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn URL]
-- 💻 GitHub: [Add your GitHub URL]
-- 🌐 Portfolio: [Add your Portfolio URL]
-- 📧 Email: nithies22@gmail.com
+<p align="left">
+
+<a href="https://www.linkedin.com/in/nithieswar-s-bb97ab2b4">
+  <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://nithies-resume.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
+</a>
+
+<a href="https://drive.google.com/file/d/1CxP97G3s-A-Qfk3NGb9OqIhPGLYOqLw3/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-View-red?style=for-the-badge&logo=googledrive">
+</a>
+
+</p>
+
+📞 **Phone:** +91 79049 59723
